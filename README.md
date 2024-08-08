@@ -8,4 +8,4 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/Felix-zf/ACME-S
 
 ## 鸣谢
 - Misaka的一键脚本：https://github.com/Misaka-blog/acme-script
-- wulabing提供的检查80端口思路：https://github.com/wulabing/Xray_onekey
+- wulabing的检查80端口思路：https://github.com/wulabing/Xray_onekey
