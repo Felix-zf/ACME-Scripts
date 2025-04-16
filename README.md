@@ -1,12 +1,12 @@
 # acme-script
 
-## 一键脚本
+### 一键脚本
 
 ```shell
 wget -N --no-check-certificate https://raw.githubusercontent.com/Felix-zf/ACME-Scripts/main/acme.sh && bash acme.sh
 ```
 
-## Acme 脚本
+### Acme 脚本
 1. 安装依赖软件
 ```
 apt update
